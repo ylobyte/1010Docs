@@ -47,6 +47,9 @@ client/jspm_packages/
 server/node_modules/
 server/jspm_packages/
 
+client/.DS_Store
+server/.DS_Store
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
