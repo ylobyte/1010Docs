@@ -49,6 +49,10 @@
     .btn-dark{
         @apply whitespace-nowrap bg-black text-white rounded-full py-3 px-6 text-xl capitalize hover:bg-opacity-80;
     }
+    .btn-docs{
+        @apply whitespace-nowrap bg-[#FF5757] text-white rounded-full py-3 px-6 text-xl capitalize hover:bg-opacity-80;
+    }
+    
 
     .btn-light{
         @apply btn-dark bg-grey text-black;
